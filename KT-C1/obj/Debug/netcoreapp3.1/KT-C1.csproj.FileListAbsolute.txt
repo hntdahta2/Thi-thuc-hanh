@@ -1,0 +1,13 @@
+C:\Users\hntdahta\source\repos\KT-C1\bin\Debug\netcoreapp3.1\KT-C1.exe
+C:\Users\hntdahta\source\repos\KT-C1\bin\Debug\netcoreapp3.1\KT-C1.deps.json
+C:\Users\hntdahta\source\repos\KT-C1\bin\Debug\netcoreapp3.1\KT-C1.runtimeconfig.json
+C:\Users\hntdahta\source\repos\KT-C1\bin\Debug\netcoreapp3.1\KT-C1.runtimeconfig.dev.json
+C:\Users\hntdahta\source\repos\KT-C1\bin\Debug\netcoreapp3.1\KT-C1.dll
+C:\Users\hntdahta\source\repos\KT-C1\bin\Debug\netcoreapp3.1\KT-C1.pdb
+C:\Users\hntdahta\source\repos\KT-C1\obj\Debug\netcoreapp3.1\KT-C1.csprojAssemblyReference.cache
+C:\Users\hntdahta\source\repos\KT-C1\obj\Debug\netcoreapp3.1\KT-C1.AssemblyInfoInputs.cache
+C:\Users\hntdahta\source\repos\KT-C1\obj\Debug\netcoreapp3.1\KT-C1.AssemblyInfo.cs
+C:\Users\hntdahta\source\repos\KT-C1\obj\Debug\netcoreapp3.1\KT-C1.csproj.CoreCompileInputs.cache
+C:\Users\hntdahta\source\repos\KT-C1\obj\Debug\netcoreapp3.1\KT-C1.dll
+C:\Users\hntdahta\source\repos\KT-C1\obj\Debug\netcoreapp3.1\KT-C1.pdb
+C:\Users\hntdahta\source\repos\KT-C1\obj\Debug\netcoreapp3.1\KT-C1.genruntimeconfig.cache
